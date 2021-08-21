@@ -1,0 +1,10 @@
+ipl/dashboard/data/BatchConfig$1.class
+ipl/dashboard/data/model/Team.class
+ipl/dashboard/data/repository/MatchRepository.class
+ipl/dashboard/data/MatchDataProcessor.class
+ipl/dashboard/IplDashboardBackendApplication.class
+ipl/dashboard/data/model/Match.class
+ipl/dashboard/data/BatchConfig.class
+ipl/dashboard/data/repository/TeamRepository.class
+ipl/dashboard/data/BatchConfig$2.class
+ipl/dashboard/data/MatchInput.class

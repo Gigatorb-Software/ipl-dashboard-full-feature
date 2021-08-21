@@ -1,0 +1,15 @@
+.yearSelector {
+  justify-self: end;
+  padding: 20px;
+  grid-column-gap: 20px;
+}
+
+.yearsList {
+  text-align: right;
+  list-style-type: none;
+}
+
+.yearsList > li {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}

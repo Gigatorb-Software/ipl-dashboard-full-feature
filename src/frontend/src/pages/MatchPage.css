@@ -1,0 +1,8 @@
+.matchPage {
+  display: grid;
+  grid-template-columns: 1fr 5fr;
+}
+
+.page-heading {
+  margin: 20px auto;
+}
